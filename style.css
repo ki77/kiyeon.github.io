@@ -1,14 +1,12 @@
+
+
 body {
-    font-family: 'Roboto Slab', sans-serif;
+    /* font-family: 'Roboto Slab', serif; */
     text-align: center;
 }
 
-h1 {
-   font-size: 50px;
-   font-weight: 500;
-}
-
 h5 {
+    font-family: 'Roboto Slab', serif;
     font-size: 24px;
     font-weight: light;
 }
@@ -16,3 +14,15 @@ h5 {
 img#main {
     width: 800px;
 }
+
+#Ki {
+  font-family: 'Pinyon Script', cursive;
+  font-size: 100px;
+  font-weight: 550;
+}
+
+/* h1 {
+  font-family: 'Pinyon Script', cursive;
+  font-size: 100px;
+  font-weight: 550;
+} */

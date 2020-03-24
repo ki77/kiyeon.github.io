@@ -3,9 +3,8 @@ a.notunderline {
 }
 
 body {
-    /* font-family: 'Roboto Slab', serif; */
     text-align: center;
-    /* background-color: #e6ffff; */
+    /* font-family: 'Roboto Slab', serif; */
 }
 
 h5 {
@@ -30,9 +29,3 @@ img#main {
 #about {
   margin-right: 70px;
 }
-
-/* h1 {
-  font-family: 'Pinyon Script', cursive;
-  font-size: 100px;
-  font-weight: 550;
-} */

@@ -31,7 +31,7 @@ img {
 }
 
 figcaption {
-  font-size: 14px;
+  font-size:0.8rem;
   text-align: center;
 }
 
@@ -53,7 +53,7 @@ h1 {
 
 h5 {
     font-family: 'Roboto Slab', serif;
-    font-size:1.7rem;
+    font-size:1.5rem;
     font-weight: light;
     margin: auto;
     text-decoration: none;
@@ -65,11 +65,11 @@ h5 {
 
 #ki {
   font-family: 'Pinyon Script', cursive;
-  font-size: 6rem;
+  font-size: 5rem;
   /* font-weight: 550; */
   margin: auto;
 }
 
 #about {
-  margin-right:5rem;
+  margin-right:4rem;
 }

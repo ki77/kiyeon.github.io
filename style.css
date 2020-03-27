@@ -3,14 +3,14 @@ a.notunderline {
   color: #000066;
 }
 
-.responsive {
+/* .responsive {
   max-width: 60%;
   height: auto;
-}
+} */
 
-img#main {
+/* img#main {
     width: 1000px;
-}
+} */
 
 img {
   display: block;

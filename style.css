@@ -14,7 +14,7 @@ a.notunderline {
 }
 
 /* For width 400px and larger: */
-@media only screen and (min-width: 300px) {
+@media only screen and (min-width: 400px) {
   .responsive {
     width: 60%;
     height: auto;

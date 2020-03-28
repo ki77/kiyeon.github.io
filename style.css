@@ -3,11 +3,14 @@ a.notunderline {
   color: #000066;
 }
 
-
-
 /* img#main {
     width: 1000px;
 } */
+
+.responsive {
+  max-width: 60%;
+  height: auto;
+}
 
 img {
   display: block;
@@ -22,10 +25,8 @@ img {
 
 @media only screen and (min-width: 768px) {
   /* For desktop: */
-  .responsive {
     max-width: 60%;
     height: auto;
-  }
 }
 
 .back {

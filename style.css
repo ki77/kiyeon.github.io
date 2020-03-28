@@ -7,10 +7,10 @@ a.notunderline {
     width: 1000px;
 } */
 
-/* .responsive {
+.responsive {
   max-width: 60%;
   height: auto;
-} */
+}
 
 img {
   display: block;
@@ -19,16 +19,6 @@ img {
 	/* padding-bottom: 20px; */
 }
 
-[class*="col-"] {
-  width: 100%;
-  height: auto;
-}
-
-@media only screen and (min-width: 768px) {
-  /* For desktop: */
-    max-width: 60%;
-    height: auto;
-}
 
 .back {
   font-size:1rem;

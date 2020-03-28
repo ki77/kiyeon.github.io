@@ -8,17 +8,22 @@ a.notunderline {
 } */
 
 /* For width smaller than 400px: */
-.responsive {
+.influencer {
   width: 90%;
   height: auto;
 }
 
 /* For width 400px and larger: */
 @media only screen and (min-width: 400px) {
-  .responsive {
+  .influencer {
     width: 60%;
     height: auto;
   }
+}
+
+.responsive {
+  width: 90%;
+  height: auto;
 }
 
 
@@ -29,6 +34,11 @@ img {
 	/* padding-bottom: 20px; */
 }
 
+figcaption {
+  font-size:0.8rem;
+  text-align: center;
+}
+
 
 .back {
   font-size:1rem;
@@ -36,7 +46,6 @@ img {
 
 body {
     text-align: center;
-
     /* margin: 0px;
     padding: 0px; */
     font-family: 'Roboto';
@@ -46,22 +55,18 @@ body {
     /* font-family: 'Roboto Slab', serif; */
 }
 
-
-
-figcaption {
-  font-size:0.8rem;
-  text-align: center;
-}
-
 .center {
   text-align: center;
-  text-align: justify;
+  text-align: left;
+  /* text-align: justify; */
+  /* display: inline-block; */
 
   margin: auto;
   width: 50%;
   border: 3px;
   padding: 10px;
 }
+
 
 h1 {
   text-align: center;

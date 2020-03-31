@@ -28,6 +28,7 @@ body {
     font-family: 'Roboto';
     font-size: 1.1rem;
     line-height: 1.9rem;
+    padding: 1rem;
 }
 
 .center {
@@ -55,7 +56,7 @@ h5 {
 
 #ki {
   font-family: 'Pinyon Script', cursive;
-  font-size: 5rem;
+  font-size: 4.3rem;
   margin: auto;
 }
 

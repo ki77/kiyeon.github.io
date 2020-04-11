@@ -6,12 +6,16 @@ a.notunderline {
 .responsive {
   width: 90%;
   height: auto;
+  text-align: center;
+  text-align: left;
+  margin: auto;
 }
 
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 figcaption {
@@ -36,7 +40,6 @@ body {
   text-align: left;
   margin: auto;
   width: 50%;
-
 }
 
 
